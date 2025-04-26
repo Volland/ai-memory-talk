@@ -1,4 +1,8 @@
 
+# # Advanced Memory Systems for AI 
+- From RAG to memory 
+- From Graphs to Metagraphs 
+
 ---
 ### Volodymyr Pavlyshyn 
 - Ukrainian based in Berlin 
